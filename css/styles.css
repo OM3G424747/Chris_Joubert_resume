@@ -37,8 +37,8 @@ Visual studio tool bar
 Code banner settings
 */
 .banner{
-    border-radius: 0 0 25px 25px;
     position: fixed;
+    border-radius: 0 0 25px 25px;
     left: 800px;
     top: 25px;
     z-index: 2;
