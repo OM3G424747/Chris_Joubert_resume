@@ -53,6 +53,7 @@ Banner to hide text
     top: -25px;
     z-index: 1;
     padding-left: 400px;
+    border-left: 10000px solid rgb(34, 34, 34);
     border-right: 10000px solid rgb(34, 34, 34);
 }
 
