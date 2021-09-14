@@ -37,19 +37,18 @@ Visual studio tool bar
 Code banner settings
 */
 .banner{
-    border-radius: 0 0 0 0px;
+    border-radius: 0 0 25px 25px;
     position: fixed;
-    left: 400px;
+    left: 800px;
     top: 25px;
     z-index: 2;
-    padding-left: 400px;
+
 }
 
 /*
 Banner to hide text
 */
 .overTextBanner{
-    border-radius: 0 0 0 0px;
     position: fixed;
     left: 0px;
     top: -25px;
