@@ -1,0 +1,191 @@
+/*
+Profile pic settings and position
+*/
+.profilePic {
+    border-radius: 25px 25px 25px 25px;
+    position: fixed;
+    left: 50px;
+    top: 50px;
+    z-index: 2;
+}
+
+/*
+Background settings for main document
+*/
+.background {
+    position: fixed;
+    left: -10px;
+    top: -65px;
+    border: 10000px solid rgb(34, 34, 34);
+    z-index: -2;
+}
+
+/*
+Visual studio tool bar
+*/
+.topBar {
+    position: fixed;
+    left: 0px;
+    top: 0PX;
+    height: 33PX; 
+    border-right: 10000px solid rgb(60, 60, 60);
+    border-bottom: 0px solid rgb(60, 60, 60);
+    z-index: 5;
+}
+
+/*
+Code banner settings
+*/
+.banner{
+    border-radius: 0 0 0 0px;
+    position: fixed;
+    left: 400px;
+    top: 25px;
+    z-index: 2;
+    padding-left: 400px;
+}
+
+/*
+Banner to hide text
+*/
+.overTextBanner{
+    border-radius: 0 0 0 0px;
+    position: fixed;
+    left: 0px;
+    top: -25px;
+    z-index: 1;
+    padding-left: 400px;
+    border-right: 10000px solid rgb(34, 34, 34);
+}
+
+/*
+Font type and postion for main title
+*/
+.title {
+    position: fixed;
+    left: 865px;
+    top: 220px;
+    color: white;
+    z-index: 3;
+    font-family: Consolas, monaco, monospace;
+}
+
+/*
+Main text body size and position
+*/
+.mainBody {
+    position: relative;
+    top: 450px;
+    left: 35px;
+    width: 65%;
+    font-family: Consolas, monaco, monospace;
+    color: rgb(255, 255, 255);
+    padding-bottom: 600px;
+    padding-left: 400px;
+}
+
+/*
+Text padding for main body of site
+*/
+.bodyText{
+    padding-left: 25px;
+}
+
+/*
+Side bar position and size
+*/
+.sideBar {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 400px;
+    z-index: 1;
+    border-top: 400px solid rgb(47,47,47);
+    border-bottom: 10000px solid rgb(47,47,47);
+    border-right: 25px solid rgb(47,47,47);
+    background-color: rgb(47,47,47);
+    padding-left: 25px;   
+}
+
+/*
+Text Style and settings for hidde joke
+*/
+.contact {
+    left: 0px;
+    position: fixed;
+    right: 0px;
+    top: 725px;
+    z-index: 2;
+    width: 400px;
+    padding-left: 25px;
+}
+
+/*
+Text Style and color for all subheadings
+*/
+.subheading {
+    font-family: Consolas, monaco, monospace;
+    padding-top: 30px;
+    padding-left: 25px;
+    color: rgb(214, 129, 1);
+}
+
+/*
+Text Style for side bar skills
+*/
+.sideBarText {
+    font-family: Consolas, monaco, monospace;
+    padding-top: 10px;
+    padding-left: 25px;
+    color: rgb(0, 177, 177);
+}
+
+/*
+Text Style and color for certificates
+*/
+.certText {
+    font-family: Consolas, monaco, monospace;
+    color: rgb(0, 177, 177);
+}
+
+/*
+Color and style for hyperlink text
+*/
+.contactLink {
+    color: rgb(110, 206, 0);
+    font-style: italic;
+    font-family: Consolas, monaco, monospace;
+}
+
+/*
+Sets the color for lists dots
+*/
+.listDot {
+    color: white;
+}
+
+/*
+Text Style and settings for hidde joke
+*/
+.easterEgg {
+    position: relative;
+    left: 500px;
+    width: 50%;
+    padding-top: 200px;
+    text-align: center;
+    color: white;
+    font-family: Consolas, monaco, monospace;
+}
+
+/*
+table items background
+*/
+ td {
+    border-radius: 10px 10px 10px 10px;
+    background-color: rgb(60, 60, 60);   
+  }
+
+  
+
+
+
