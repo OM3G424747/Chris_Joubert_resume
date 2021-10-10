@@ -10,6 +10,14 @@ Profile pic settings and position
 }
 
 /*
+Container for flexbox
+*/
+.container {
+  dispaly: flex;
+}
+
+
+/*
 Background settings for main document
 */
 .background {
