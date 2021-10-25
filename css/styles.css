@@ -188,7 +188,7 @@ Text Style and settings for hidde joke
 table items background
 */
  td {
-    color: rgb(255, 255, 255);
+    color: white;
     border-radius: 10px 10px 10px 10px;
     background-color: rgb(60, 60, 60);   
   }
