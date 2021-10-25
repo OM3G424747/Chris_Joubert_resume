@@ -165,9 +165,9 @@ Color and style for hyperlink text
 }
 
 /*
-Sets the color for lists dots
+Sets the color for lists items
 */
-.listDot {
+.listItem {
     color: white;
 }
 
